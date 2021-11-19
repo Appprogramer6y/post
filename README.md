@@ -1,10 +1,14 @@
 [
   {
     "متن": "تست",
-    "عکس": "https://s4.uupload.ir/files/picsart_21-11-10_13-31-43-032_d316.png"
+    "عکس": "https://1ea.ir/B6da"
+  },
+  {
+    "متن": "خبر های مارو دنبال کنید",
+    "عکس": "https://1ea.ir/B6da"
   },
   {
     "متن": "اخبار جدید",
-    "عکس": "https://s4.uupload.ir/files/picsart_21-11-10_13-31-43-032_d316.png"
+    "عکس": "https://1ea.ir/B6da"
   }
 ]
